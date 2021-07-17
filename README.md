@@ -20,8 +20,9 @@ This study will use Jupyter Lab (Anaconda)
 3. Cd to yml file folder
 
 **In Anaconda Prompt**
+
 conda env create -f cvcourse_windows.yml
 
 conda activate python_cvcourse
 
-jupyter-lab (Copy ths link)
+jupyter-lab (Copy the link to enter JupterLab)
