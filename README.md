@@ -21,5 +21,7 @@ This study will use Jupyter Lab (Anaconda)
 
 **In Anaconda Prompt**
 conda env create -f cvcourse_windows.yml
+
 conda activate python_cvcourse
+
 jupyter-lab (Copy ths link)
