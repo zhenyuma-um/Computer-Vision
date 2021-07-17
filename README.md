@@ -13,6 +13,7 @@ https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-lea
 ## Environment setup
 
 **Environment download:**
+
 This study will use Jupyter Lab (Anaconda)
 
 1. Download Anaconda
